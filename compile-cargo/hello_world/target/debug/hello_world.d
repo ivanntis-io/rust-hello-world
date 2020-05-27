@@ -1,0 +1,1 @@
+/Users/ivan.pena/Documents/RUSTPAGE/Episodio2/repo/rust-hello-world/compile-cargo/hello_world/target/debug/hello_world: /Users/ivan.pena/Documents/RUSTPAGE/Episodio2/repo/rust-hello-world/compile-cargo/hello_world/src/main.rs
